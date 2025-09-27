@@ -1,0 +1,14 @@
+node_modules
+/dist
+/.vite-inspect
+*.log
+pnpm-lock.yaml
+yarn.lock
+.DS_Store
+.env*
+.vscode
+.idea
+tsconfig.app.tsbuildinfo
+
+# Build output
+coverage
